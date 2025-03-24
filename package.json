@@ -1,0 +1,11 @@
+{
+    "name": "karma-junit2-reporter",
+    "version": "0.0.1",
+    "description": "Alternative implementation of junit reporter since original junit reporter sometimes does not generate the report.",
+    "main": "reporter.js",
+    "keywords": [
+      "karma-plugin",
+      "karma-reporter"
+    ],
+    "license": "MIT"
+  }
